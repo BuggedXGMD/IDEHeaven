@@ -1,12 +1,4 @@
-# IDEHeaven
-Mod of Turbowarp, designed to run faster and have more editor features.
-Meant to be the future of Scratch mods.
-# Scratch 4.0
-We're essentially trying to make a mod that makes other mods inferior.
-Aaaaand that's a wrap.
-See you on launch!
-# ok that's seriously it
-just do something else.
-go and touch grass.
-why did i make this.
-mac and cheese.
+# Plasma IDE
+Welcome to Plasma IDE! Plasma is a fork of Scratch, Turbowarp, PenguinMod and ElectraMod. A mod of a mod of a mod of a mod!
+What it does is simple : give people as much experience as possible.
+Let's say you want to add a Python or Lua snippet. Usually, doing that in Scratch or another mod is like growing and harvesting the crops and buying a cow all to get bread with milk. In Plasma IDE, it's as simple as, well, slicing bread and grabbing a carton with milk.
